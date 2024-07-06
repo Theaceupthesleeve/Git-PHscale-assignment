@@ -2,14 +2,152 @@
     margin: 0;
     padding: 0;
     box-shadow: none;
+} 
+.akl{
+    margin-left: 68%;
+    margin-top: 30px;
+    
 }
 
+.neutral{
+    margin-left: 43%;
+}
 
+.acid{
+    margin-left: 17%;
+}
 
+.heading{
+    text-align: center;
+    margin-top: 5%;
+}
 
+.main-div{
+    margin-left: 10%;
+    /* margin-top: 8%; */
+}
 
+.high{
+    margin-left: 45%;
+}
+   
+.color1{
+    background-color: #ff1420;
+    height: 7rem;
+    width: 5%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
 
+.color2{
+    background-color: #ff531b;
+    height: 7rem;
+    width: 5%;
+    margin-left: 70px;
+    margin-top: -112px;
+}
 
+.color3{
+    background-color: #fea500;
+    height: 7rem;
+    width: 5%;
+    margin-left: 111px;
+    margin-top: -112px;
+}
+
+.color4{
+    background-color: #ffcd00;
+    height: 7rem;
+    width: 5%;
+    margin-left: 152px;
+    margin-top: -112px;
+}
+
+.color5{
+    background-color: #6ed700;
+    height: 7rem;
+    width: 5%;
+    margin-left: 193px;
+    margin-top: -112px;
+}
+
+.color6{
+    background-color: #00b601;
+    height: 7rem;
+    width: 5%;
+    margin-left: 234px;
+    margin-top: -112px;
+
+}
+
+.color7{
+    background-color: #009d00;
+    height: 7rem;
+    width: 5%;
+    margin-left: 276px;
+    margin-top: -112px;
+
+}
+
+.color8{
+    background-color: #00a755;
+    height: 7rem;
+    width: 5%;
+    margin-left: 317px;
+    margin-top: -112px;
+}
+
+.color9{
+    background-color: #01c0b9;
+    height: 7rem;
+    width: 5%;
+    margin-left: 358px;
+    margin-top: -112px;
+}
+
+.color10{
+    background-color: #008acb;
+    height: 7rem;
+    width: 5%;
+    margin-left: 400px;
+    margin-top: -112px;
+}
+
+.color11{
+    background-color: #004bcb;
+    height: 7rem;
+    width: 5%;
+    margin-left: 441px;
+    margin-top: -112px;
+}
+
+.color12{
+    background-color: #3421b9;
+    height: 7rem;
+    width: 5%;
+    margin-left: 482px;
+    margin-top: -112px;
+}
+
+.color13{
+    background-color: #7744a1;
+    height: 7rem;
+    width: 5%;
+    margin-left: 523px;
+    margin-top: -112px;
+}
+
+.color14{
+    background-color: #58008b;
+    height: 7rem;
+    width: 5%;
+    margin-left: 565px;
+    margin-top: -112px;
+}
+
+div{
+    padding: 5px;
+}
 
 
 
